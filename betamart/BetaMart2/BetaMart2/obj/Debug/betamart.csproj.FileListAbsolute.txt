@@ -1,0 +1,23 @@
+D:\Project UKK\betamart\BetaMart2\BetaMart2\bin\Debug\betamart.accdb
+D:\Project UKK\betamart\BetaMart2\BetaMart2\bin\Debug\BetaMart2.exe.config
+D:\Project UKK\betamart\BetaMart2\BetaMart2\bin\Debug\BetaMart2.exe
+D:\Project UKK\betamart\BetaMart2\BetaMart2\bin\Debug\BetaMart2.pdb
+D:\Project UKK\betamart\BetaMart2\BetaMart2\bin\Debug\System.Net.Http.dll
+D:\Project UKK\betamart\BetaMart2\BetaMart2\bin\Debug\System.Net.Http.xml
+D:\Project UKK\betamart\BetaMart2\BetaMart2\obj\Debug\BetaMart2.Form1.resources
+D:\Project UKK\betamart\BetaMart2\BetaMart2\obj\Debug\BetaMart2.Properties.Resources.resources
+D:\Project UKK\betamart\BetaMart2\BetaMart2\obj\Debug\betamart.csproj.GenerateResource.Cache
+D:\Project UKK\betamart\BetaMart2\BetaMart2\obj\Debug\BetaMart2.exe
+D:\Project UKK\betamart\BetaMart2\BetaMart2\obj\Debug\BetaMart2.pdb
+D:\Program\betamart\BetaMart2\BetaMart2\bin\Debug\BetaMart2.exe.config
+D:\Program\betamart\BetaMart2\BetaMart2\obj\Debug\BetaMart2.exe
+D:\Program\betamart\BetaMart2\BetaMart2\obj\Debug\BetaMart2.pdb
+D:\Program\betamart\BetaMart2\BetaMart2\bin\Debug\betamart.accdb
+D:\Program\betamart\BetaMart2\BetaMart2\bin\Debug\BetaMart2.exe
+D:\Program\betamart\BetaMart2\BetaMart2\bin\Debug\System.Net.Http.dll
+D:\Program\betamart\BetaMart2\BetaMart2\bin\Debug\System.Net.Http.xml
+D:\Program\betamart\BetaMart2\BetaMart2\obj\Debug\betamart.csprojResolveAssemblyReference.cache
+D:\Program\betamart\BetaMart2\BetaMart2\obj\Debug\BetaMart2.Form1.resources
+D:\Program\betamart\BetaMart2\BetaMart2\obj\Debug\BetaMart2.Properties.Resources.resources
+D:\Program\betamart\BetaMart2\BetaMart2\obj\Debug\betamart.csproj.GenerateResource.Cache
+D:\Program\betamart\BetaMart2\BetaMart2\bin\Debug\BetaMart2.pdb
